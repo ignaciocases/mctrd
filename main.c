@@ -11,7 +11,7 @@
 #ifdef _WIN32
 #define SLASH '\\'
 #endif
-#ifdef __linux
+#ifdef __unix
 #define SLASH '/'
 #endif
 
